@@ -1,0 +1,1 @@
+﻿worker: python3 status_script.py
